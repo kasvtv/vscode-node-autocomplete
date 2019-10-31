@@ -1,0 +1,22 @@
+{
+  "name": "vscode-node-autocomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasvtv/vscode-node-autocomplete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasvtv/vscode-node-autocomplete/issues"
+  },
+  "homepage": "https://github.com/kasvtv/vscode-node-autocomplete#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.3"
+  }
+}
