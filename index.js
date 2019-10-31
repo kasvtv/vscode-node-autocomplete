@@ -1,1 +1,5 @@
-// start typing: myFunct....... nothing happens
+console.log('hey')
+
+
+// start typing: myFunct....... no suggestions for commonJS modules
+
